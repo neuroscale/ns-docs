@@ -1,29 +1,33 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Neuroscale Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#2000fa",
+    "light": "#FFF",
+    "dark": "#2000fa",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#2000fa",
+      "to": "#1f04cd"
+    },
+    "background" : {
+      "light": "#FFF",
+      "dark": "#141419"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@neuroscale.ai"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Go to Arbi",
+    "url": "https://app.arbi.ai/"
   },
   "tabs": [
     {
@@ -84,8 +88,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/neuroscale_ai",
+    "github": "https://github.com/neuroscale",
+    "linkedin": "https://linkedin.com/company/neuroscale",
+    "instagram": "https://instagram.com/neuroscale_ai"
   }
 }
