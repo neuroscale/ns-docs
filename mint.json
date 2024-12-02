@@ -14,9 +14,17 @@
       "from": "#2000fa",
       "to": "#1f04cd"
     },
-    "background" : {
+    "background": {
       "light": "#FFF",
       "dark": "#141419"
+    }
+  },
+  "font": {
+    "headings": {
+      "family": "Plus Jakarta Sans"
+    },
+    "body": {
+      "family": "Plus Jakarta Sans"
     }
   },
   "topbarLinks": [
@@ -57,8 +65,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
