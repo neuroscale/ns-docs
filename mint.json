@@ -47,17 +47,17 @@
     {
       "name": "Our Website",
       "icon": "house",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://discord.com/humans.txt"
+      "url": "https://neuroscale.ai"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://www.neuroscale.ai/blog"
+    },
+    {
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://discord.com/humans.txt"
     }
   ],
   "navigation": [
